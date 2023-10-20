@@ -77,7 +77,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video]https://github.com/DukulH/Agrigate_Ferti-Doc/blob/main/docs/Agrigate%20Ferti%20Doc-WBG.jpg](https://www.youtube.com/watch?v=bmRsmN1CeIE_Bx0)
+[![Watch the video](https://raw.githubusercontent.com/DukulH/Agrigate_Ferti-Doc/main/docs/Agrigate%20Ferti%20Doc-WBG.jpg)](https://www.youtube.com/watch?v=bmRsmN1CeIE_Bx0)
 
 ### Project development roadmap
 
