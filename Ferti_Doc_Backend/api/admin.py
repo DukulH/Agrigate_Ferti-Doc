@@ -2,7 +2,7 @@ from django.contrib import admin
 from .models import Fertilizers, Shop_Details
 # Register your models here.
 class Fertilizers_Admin(admin.ModelAdmin):
-    list_display = ['fertilizer_name', 'price_per_kg','phone','service_type','created_at']
+    list_display = ['fertilizer_name', 'price_per_kg']
     
 admin.site.register(Fertilizers, Fertilizers_Admin)
 
