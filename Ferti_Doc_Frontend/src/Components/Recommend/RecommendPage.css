@@ -1,0 +1,12 @@
+.detailsSection {
+  background-color: #32c7c7;
+}
+.exitButtonDesign{
+  padding: 19px 40px;
+  display: flex;
+  align-items: center;
+  background-color: #1A1A1A;
+  color: #8FD14F;
+  border-radius: 5px;
+
+}

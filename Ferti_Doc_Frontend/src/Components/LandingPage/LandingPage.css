@@ -1,0 +1,21 @@
+.headerDesign{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #41E7AB;
+}
+.bodyDesign{
+    margin: 0;
+    padding-top: 40px;
+    height: 80vh;
+    background-color: #0CA789;
+}
+.submitButtonDesign{
+    padding: 19px 40px;
+    display: flex;
+    align-items: center;
+    background-color: #FEF445;
+    color: #808080;
+    border-radius: 0;
+}
