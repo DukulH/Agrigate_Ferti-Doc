@@ -25,15 +25,15 @@
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+The problem that Agrigate Ferti Doc aims to address is the widespread issue of over-fertilization in agriculture, particularly in Bangladesh. Over-fertilization occurs when excessive amounts of fertilizers are applied to crops, resulting in adverse environmental effects, such as soil and water pollution, and negative impacts on biodiversity.
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Optimized fertilizer recommendations for sustainable and efficient agriculture.
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
+Agrigate Ferti Doc is a web application tailored for farmers in Bangladesh, offering personalized fertilizer recommendations. It provides precise guidance on the type and quantity of fertilizers needed for specific crops, soil types, and locations, promoting sustainable agricultural practices and reducing environmental impact. By preventing over-fertilization and ensuring responsible fertilizer use, the application contributes to a lower overall environmental impact and healthier ecosystems.
 
 More detail is available in our [description document](./docs/DESCRIPTION.md).
 
@@ -41,18 +41,24 @@ More detail is available in our [description document](./docs/DESCRIPTION.md).
 
 ### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
+Agrigate Ferti-Doc employs two key IBM AI services:
+IBM Text to Speech (TTS)
+IBM Watson Assistant
 
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
+- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+  - Watson Assistant functions as an interactive virtual assistant, offering valuable user support and clarifying how the application operates.
+  - It helps users with queries, provides clarifications, and furnishes essential information related to the use of Agrigate Ferti Doc.
+  - The presence of Watson Assistant significantly enhances the user experience by making the application more user-friendly and informative.
+
+- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech)
+  - TTS is used to provide voice-based guidance and suggestions to users during different phases of the application.
+  - It enhances the user experience by converting text into speech, ensuring the app is more accessible to a broader audience.
+  - TTS also converts user inputs and recommendations into audio format, simplifying information delivery.
+
+The combination of IBM Text to Speech and Watson Assistant not only aids users in navigating the app but also fosters a smoother and more user-centric experience, especially for those who may prefer voice instructions or require additional guidance. This approach greatly contributes to the success of Agrigate Ferti Doc in helping farmers make informed and responsible decisions regarding fertilizer use and crop management while supporting environmental sustainability.
 
 ### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
+None
 
 ### Solution architecture
 
@@ -71,7 +77,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://www.youtube.com/watch?v=bmRsmN1CeIE_Bx0)
 
 ### Project development roadmap
 
