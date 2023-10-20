@@ -41,21 +41,13 @@ More detail is available in our [description document](./docs/DESCRIPTION.md).
 
 ### IBM AI service(s) used
 
-Agrigate Ferti-Doc employs two key IBM AI services:
-IBM Text to Speech (TTS)
-IBM Watson Assistant
-
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
-  - Watson Assistant functions as an interactive virtual assistant, offering valuable user support and clarifying how the application operates.
-  - It helps users with queries, provides clarifications, and furnishes essential information related to the use of Agrigate Ferti Doc.
-  - The presence of Watson Assistant significantly enhances the user experience by making the application more user-friendly and informative.
-
+Agrigate Ferti-Doc employs IBM Text to Speech (TTS) AI service
 - [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech)
   - TTS is used to provide voice-based guidance and suggestions to users during different phases of the application.
   - It enhances the user experience by converting text into speech, ensuring the app is more accessible to a broader audience.
   - TTS also converts user inputs and recommendations into audio format, simplifying information delivery.
 
-The combination of IBM Text to Speech and Watson Assistant not only aids users in navigating the app but also fosters a smoother and more user-centric experience, especially for those who may prefer voice instructions or require additional guidance. This approach greatly contributes to the success of Agrigate Ferti Doc in helping farmers make informed and responsible decisions regarding fertilizer use and crop management while supporting environmental sustainability.
+The IBM Text to Speech not only aids users in navigating the app but also fosters a smoother and more user-centric experience, especially for those who may prefer voice instructions. This approach greatly contributes to the success of Agrigate Ferti Doc in helping farmers make informed and responsible decisions regarding fertilizer use and crop management while supporting environmental sustainability.
 
 ### Other IBM technology used
 None
