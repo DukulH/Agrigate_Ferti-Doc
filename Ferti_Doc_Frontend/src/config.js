@@ -1,2 +1,2 @@
-const baseUrl = "http://18.141.193.13:8080";
+const baseUrl = "https://agrigate-ferti-doc-admin.agrigate.network";
 export default baseUrl;
