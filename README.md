@@ -73,7 +73,7 @@ Diagram and step-by-step description of the flow of our solution:
 
 The project currently does the following things.
 
-![Roadmap]((https://github.com/DukulH/Agrigate_Ferti-Doc/blob/main/Agrigate%20Ferti-Doc%20Road%20Map.jpg)https://github.com/DukulH/Agrigate_Ferti-Doc/blob/main/Agrigate%20Ferti-Doc%20Road%20Map.jpg)
+![Roadmap](https://github.com/DukulH/Agrigate_Ferti-Doc/blob/main/Agrigate%20Ferti-Doc%20Road%20Map.jpg)
 
 
 ### Live demo
