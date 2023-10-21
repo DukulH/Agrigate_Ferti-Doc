@@ -58,10 +58,10 @@ Diagram and step-by-step description of the flow of our solution:
 
 ![Agrigate Ferti-Doc](https://github.com/DukulH/Agrigate_Ferti-Doc/blob/main/Agrigate%20Ferti-Doc%20System%20Architecture.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the site and enters their details.
+2. Then user is provided an input screen where the TTS AI service speaks to the user on its input and what he needs to input.
+3. After the input, the model predicts an output based on the provided information.
+4. The output includes a detailed fertilizer recommendation with costs and a receipt where the user can place order and collect from their nearest store.
 
 ## Presentation materials
 
